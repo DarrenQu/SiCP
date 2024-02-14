@@ -1,4 +1,5 @@
 # SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2312.04822.pdf)
 
 ## SiCP Architecture
 ![image](https://github.com/DarrenQu/SiCP/blob/main/images/sicp%20architecture.png)
